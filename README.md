@@ -35,3 +35,9 @@ Durante este desafio, foram estudados conceitos de força bruta, autenticação,
 ## Considerações finais
 
 Este projeto contribuiu para o desenvolvimento dos meus conhecimentos em cibersegurança e para a compreensão prática de técnicas utilizadas em testes de invasão.
+
+## Evidências do projeto
+
+### Capturas de tela
+
+![Evidência 1](./Captura%20de%20tela%202026-11-25%20151052.png)
