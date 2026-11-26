@@ -41,3 +41,17 @@ Este projeto contribuiu para o desenvolvimento dos meus conhecimentos em ciberse
 ### Capturas de tela
 
 ![Evidência 1](./Captura%20de%20tela%202026-11-25%20151052.png)
+
+## Evidências do projeto
+
+### 1. Reconhecimento com Nmap
+
+![Nmap](./NOME-DA-IMAGEM.png)
+
+### 2. Execução do Medusa
+
+![Medusa](./NOME-DA-IMAGEM.png)
+
+### 3. Resultado do teste
+
+![Resultado](./NOME-DA-IMAGEM.png)
