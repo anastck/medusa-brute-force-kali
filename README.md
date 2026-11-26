@@ -46,7 +46,7 @@ Este projeto contribuiu para o desenvolvimento dos meus conhecimentos em ciberse
 
 ### 1. Reconhecimento com Nmap
 
-![Nmap](./NOME-DA-IMAGEM.png)
+![Nmap](./Captura de tela 2026-11-25 151052.png).
 
 ### 2. Execução do Medusa
 
