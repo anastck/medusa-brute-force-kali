@@ -38,11 +38,11 @@ Este projeto contribuiu para o desenvolvimento dos meus conhecimentos em ciberse
 
 ## Evidências do projeto
 
-### Capturas de tela
+### Nmap no terminal kali
 
-![Evidência 1](./Captura%20de%20tela%202026-11-25%20151052.png)
+![Nmap](./Captura%20de%20tela%202026-11-25%20151052.png)
 
-### 2. Criando Usuários e senhas
+### 2. Criando usuários e senhas
 ![Echo](./Captura%20de%20tela%202026-11-25%20151752.png)
 
 ### 3. Força bruta com medusa
@@ -51,3 +51,9 @@ Este projeto contribuiu para o desenvolvimento dos meus conhecimentos em ciberse
 
 ### 4. Resultado 
 ![Resultado com medusa](./Captura%20de%20tela%202026-11-25%20152429.png)
+
+### 5. Simulando combinações usando medusa
+![Comando de combinações](/Captura%20de%20tela%202026-11-26%20105353.png)
+
+### 6. Sucesso ao logar
+![Login realizado](/Captura%20de%20tela%202026-11-26%20110053.png)
