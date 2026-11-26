@@ -15,6 +15,7 @@ O objetivo é compreender o funcionamento de ataques de força bruta e conhecer 
 
 ## Ferramentas utilizadas
 
+- Metasploitable
 - Kali Linux
 - Medusa
 - Nmap
@@ -38,7 +39,7 @@ Este projeto contribuiu para o desenvolvimento dos meus conhecimentos em ciberse
 
 ## Evidências do projeto
 
-### Nmap no terminal kali
+### 1. Nmap no terminal kali
 
 ![Nmap](./Captura%20de%20tela%202026-11-25%20151052.png)
 
